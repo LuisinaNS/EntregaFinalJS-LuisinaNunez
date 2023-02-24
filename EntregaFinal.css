@@ -1,0 +1,35 @@
+
+
+*{
+margin: 0%;
+padding: 0%;
+
+}
+
+.navbar1 {
+padding: 2%;
+    
+}
+
+.items {
+padding-left: 2%;
+
+}
+
+.tabla{
+padding: 2%
+
+}
+
+.visitas{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    color:rgb(0, 0, 0)
+    
+}
+
+.footer{
+    margin-left: 2%;
+    
+}
